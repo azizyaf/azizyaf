@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Abdulaziz Yahya
++966555098017
+Software Developer
+
 <!--
 **azizyaf/azizyaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

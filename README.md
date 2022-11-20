@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Abdulaziz Yahya
-+966555098017
-Software Developer
+## Abdulaziz Yahya
+#### +966555098017
+#### Full-Stack Developer
 
 <!--
 **azizyaf/azizyaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
